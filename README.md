@@ -18,3 +18,7 @@ make
 make run
 ```
 
+## Remove binaries
+```
+make clean
+```
